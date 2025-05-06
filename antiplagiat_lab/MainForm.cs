@@ -15,7 +15,7 @@ namespace antiplagiat_lab
         private const string DataFilePath = "data.json";
         private const string ReportsDirectory = "Отчёты";
         private List<Group> groups = new List<Group>();
-
+        //Добавить группу
         public MainForm()
         {
             InitializeComponent();
