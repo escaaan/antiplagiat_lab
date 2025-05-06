@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace antiplagiat_lab
 {
+    //dfghj
     public partial class MainForm : Form
     {
         private const string DataFilePath = "data.json";
