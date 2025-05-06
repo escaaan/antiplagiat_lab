@@ -16,6 +16,7 @@ namespace antiplagiat_lab
         private const string ReportsDirectory = "Отчёты";
         private List<Group> groups = new List<Group>();
         //Добавить группу
+        //Еще что-то
         public MainForm()
         {
             InitializeComponent();
